@@ -1,0 +1,28 @@
+ 
+  .background {
+    
+    background-color: #fff !important;
+  }
+  
+  .color-letra p {
+    color: black !important;
+  }
+  
+  
+  
+  .sombras{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    
+      box-shadow: -13px -5px 8px 4px rgba(0, 0, 0, 0.2);
+      /* box-shadow: 5px -6px 7px 3px rgba(0, 0, 0, 0.2); */
+  }
+  
+  .margin-top{
+    margin-top: 6.5em;
+  }
+  
+  
+  
+  
+  
+  
